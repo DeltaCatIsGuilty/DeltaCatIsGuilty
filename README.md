@@ -1,15 +1,15 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> HI THERE！ THIS IS **DELTA CAT Δ**
 
 
-## <div style="text-align:center"> DeltaCat now is<div>![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=000000&vCenter=true&height=30&lines=coding+project;writing+poem;designing+product)
+## <div style="text-align:center"> DeltaCat now is<div>![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=000000&vCenter=true&height=30&lines=coding+project;writing+poetry;designing+product)
 ***
 Δ **About me**
 
 **CODING X DESIGN X WRITING**  
-    not only theese but more...  
+    not only but more...  
 - 🔭 I’m currently study in [THSH](https://www.thsh.tp.edu.tw/nss/s/thsh/index) (Taipei Private Tsai Hsing Senior High School)
 - 🌱 Learning computer languages
-- 💬 Interested in ACG, blockchain, coding and gaming
+- 💬 Interested in ACG, blockchain, coding, poetry and gaming
 - 😄 Pronouns: He/Him
 - ⚡ Fav. Quote: Every cloud has a silver lining. ✨
 ***
