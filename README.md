@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> HI THERE！ THIS IS **DELTA CAT Δ**
 
 
-## <div style="text-align:center"> DeltaCat now is<div>![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=000000&vCenter=true&height=30&lines=coding+project;writing+poetry;designing+product)
+## <div style="text-align:center"> DeltaCat now is<div>![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=000000&vCenter=true&height=40&lines=coding+project;writing+poetry;designing+product)
 ***
 Δ **About me**
 
