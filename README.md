@@ -15,7 +15,8 @@
 - 🌱 Learning Vue.js and web3
 - 💬 Interested in ACG, blockchain, coding, poetry and gaming
 - 😄 Pronouns: He/Him
-- **Δ** Trust Δ ,Believe Δ ,Be Δ.
+
+#### - **Trust Δ ,Believe Δ ,Be Δ.** -
 
 
 ## :mailbox: **Contact me**  
