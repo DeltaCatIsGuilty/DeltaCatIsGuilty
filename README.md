@@ -24,7 +24,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-chenalex1211-blue?style=for-the-badge&logo=twitter)](http://twitter.com/chenalex1211)
 [![Instagram](https://img.shields.io/badge/Instagram-chenalex1211-orange?style=for-the-badge&logo=instagram)](http://instagram.com/chenalex1211)
 [![mail](https://img.shields.io/badge/mail-me%40deltacat.xyz-yellow?style=for-the-badge&logo=gmail)](mailto:me@deltacat.xyz)
-[![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-bitcoincash%3Aqqa55ak9l8cv4eqvdmrzpthq9dev800yw5py40l39g-brightgreen?style=for-the-badge&logo=bitcoin+cash)](https://tipb.ch/chenalex1211)
+[![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-Donate-brightgreen?style=for-the-badge&logo=bitcoin+cash)](https://tipb.ch/chenalex1211)
 
     
 
