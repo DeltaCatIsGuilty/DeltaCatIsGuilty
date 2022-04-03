@@ -21,8 +21,8 @@
 
 ## :mailbox: **Contact me**  
 
-[![Twitter](https://img.shields.io/badge/Twitter-chenalex1211-blue?style=for-the-badge&logo=twitter)](http://twitter.com/chenalex1211)
-[![Instagram](https://img.shields.io/badge/Instagram-chenalex1211-orange?style=for-the-badge&logo=instagram)](http://instagram.com/chenalex1211)
+[![Twitter](https://img.shields.io/badge/Twitter-ClickMe-blue?style=for-the-badge&logo=twitter)](http://twitter.com/_Delta_Cat_)
+[![Instagram](https://img.shields.io/badge/Instagram-ClickMe-orange?style=for-the-badge&logo=instagram)](http://instagram.com/_Delta_Cat_)
 [![mail](https://img.shields.io/badge/mail-me%40deltacat.xyz-yellow?style=for-the-badge&logo=gmail)](mailto:me@deltacat.xyz)
 [![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-Donate-brightgreen?style=for-the-badge&logo=bitcoin+cash)](https://tipb.ch/chenalex1211)
 
